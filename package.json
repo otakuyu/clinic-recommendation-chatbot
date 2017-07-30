@@ -1,0 +1,13 @@
+{
+  "name": "govhack-clinic-bot",
+  "description": "Chatbot for Govhack Clinics",
+  "version": "0.0.1",
+  "author": "Alex Yu",
+  "engines": {
+    "node": ">=4.3"
+  },
+  "main": "config.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
